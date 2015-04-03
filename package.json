@@ -1,0 +1,31 @@
+{
+  "name": "rtcninja-fake",
+  "version": "0.1.0",
+  "description": "Fake rtcninja WebRTC plugin for Node.js",
+  "main": "index.js",
+  "author": "Iñaki Baz Castillo at eFace2Face, inc. (http://eface2face.com)",
+  "engines": {
+    "node": ">=0.10.32"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eface2face/rtcninja-fake.git"
+  },
+  "license": "ISC",
+  "keywords": [
+    "webrtc",
+    "node"
+  ],
+  "dependencies": {
+    "debug": "^2.1.3",
+    "random-number": "0.0.6"
+  },
+  "devDependencies": {
+    "gulp": "git+https://github.com/gulpjs/gulp.git#4.0",
+    "gulp-filelog": "^0.4.1",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jscs-stylish": "^1.0.2",
+    "gulp-jshint": "^1.9.4",
+    "jshint-stylish": "^1.0.1"
+  }
+}

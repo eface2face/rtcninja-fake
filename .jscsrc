@@ -1,0 +1,7 @@
+{
+	"preset": "crockford",
+	"validateIndentation": "\t",
+	"requireDotNotation": null,
+	"disallowDanglingUnderscores": null,
+	"excludeFiles": ["node_modules/**"]
+}
