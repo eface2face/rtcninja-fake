@@ -1,6 +1,6 @@
 {
   "name": "rtcninja-fake",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fake Node WebRTC plugin for rtcninja",
   "main": "index.js",
   "author": "Iñaki Baz Castillo at eFace2Face, inc. (http://eface2face.com)",
